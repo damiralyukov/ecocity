@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "359308044602",
+    "project_id": "ecocity-66ed6",
+    "storage_bucket": "ecocity-66ed6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359308044602:android:4b3c5b4b7142bcfe710803",
+        "android_client_info": {
+          "package_name": "com.damiralyukov.ecocity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359308044602-ron0pdcpnli9smd0apcud1jpgral4oau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE0_cVNHF9r_vFbgawihd1AvRS4rYDKiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359308044602-ron0pdcpnli9smd0apcud1jpgral4oau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
